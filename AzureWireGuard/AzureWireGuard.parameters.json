@@ -12,10 +12,10 @@
       "value": "A_Really_Str0ng_P@ssw0rd"
     },
     "location": {
-      "value": "eastus2"
+      "value": "centralindia"
     },
     "vmSize": {
-      "value": "Standard_DS2_v2"
+      "value": "Standard_B1ls"
     },
     "tags": {
       "value": {
